@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 😃 I'm Palm.
+- 🎓 I'm currently studying at 42 Bangkok
+- ⭐️ I'm interested in badminton🏸, coding, aviation, and games
 
 <!--
 **palmicid/palmicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
