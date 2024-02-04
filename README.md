@@ -4,6 +4,9 @@
 - 🎓 I'm currently studying at 42 Bangkok
 - ⭐️ I'm interested in badminton🏸, coding, aviation, and games
 
+### skill
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=5)](https://skillicons.dev)
+
 <!--
 **palmicid/palmicid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
