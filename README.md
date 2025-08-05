@@ -5,7 +5,7 @@
 - ⭐️ I'm interested in badminton🏸, coding, aviation, and games
 
 ### skill
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go&perline=5)](https://skillicons.dev)
 
 ### 42 Profile
 [![pruangde's 42 stats](https://badge.mediaplus.ma/kettlebells/pruangde?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
